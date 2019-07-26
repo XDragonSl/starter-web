@@ -8,8 +8,10 @@ Example
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Simple examples for Git
 
 ## Deployment
+
+Any web server
 
 ## How To Contribute
