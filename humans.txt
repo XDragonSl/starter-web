@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ermolenko V.A. VYarmolenka@gomel.iba.by
 
 # THANKS
 
