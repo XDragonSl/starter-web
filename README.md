@@ -16,6 +16,8 @@ Any web server
 
 ## How To Contribute
 
+Fork repository and issue Pull Request
+
 ### Copyright
 
 Copyright 2019 Git.Training
