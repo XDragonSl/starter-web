@@ -15,3 +15,7 @@ Simple examples for Git
 Any web server
 
 ## How To Contribute
+
+### Copyright
+
+Copyright 2019 Git.Training
