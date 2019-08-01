@@ -2,6 +2,7 @@
 
 Simple web project
 Adding line for rebasing example
+More changes
 
 ## Introduction
 
