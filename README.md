@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 Simple web project
-Adding line for rebasing example
-More changes
+Updating for fix after stash
 
 ## Introduction
 
