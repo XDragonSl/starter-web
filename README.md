@@ -22,4 +22,4 @@ Fork repository and issue Pull Request
 
 ### Copyright
 
-Copyright 2019 Git.Training
+Copyright 2019 Git.Training. All rights reserved
